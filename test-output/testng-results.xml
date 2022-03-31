@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-31T13:08:10 IST" name="Default suite" finished-at="2022-03-31T13:08:26 IST" duration-ms="15759">
+    <groups>
+    </groups>
+    <test started-at="2022-03-31T13:08:10 IST" name="Default test" finished-at="2022-03-31T13:08:26 IST" duration-ms="15759">
+      <class name="hackethon.Emi_Calc">
+        <test-method is-config="true" signature="openUrl()[pri:0, instance:hackethon.Emi_Calc@783a467b]" started-at="2022-03-31T13:08:10 IST" name="openUrl" finished-at="2022-03-31T13:08:17 IST" duration-ms="7473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method signature="maximize()[pri:2, instance:hackethon.Emi_Calc@783a467b]" started-at="2022-03-31T13:08:17 IST" name="maximize" finished-at="2022-03-31T13:08:22 IST" duration-ms="4246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- maximize -->
+        <test-method signature="select()[pri:3, instance:hackethon.Emi_Calc@783a467b]" started-at="2022-03-31T13:08:22 IST" name="select" finished-at="2022-03-31T13:08:25 IST" duration-ms="3668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- select -->
+        <test-method signature="emi()[pri:4, instance:hackethon.Emi_Calc@783a467b]" started-at="2022-03-31T13:08:25 IST" name="emi" finished-at="2022-03-31T13:08:26 IST" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emi -->
+        <test-method is-config="true" signature="close()[pri:0, instance:hackethon.Emi_Calc@783a467b]" started-at="2022-03-31T13:08:26 IST" name="close" finished-at="2022-03-31T13:08:26 IST" duration-ms="160" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- hackethon.Emi_Calc -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
